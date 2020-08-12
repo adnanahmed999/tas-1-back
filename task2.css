@@ -1,0 +1,43 @@
+body{background:cyan;
+	background-size:cover;
+	font-family:sans-serif;}
+
+.container{
+	text-align: center;
+	background:white;
+	width:50%;
+	margin:auto;		
+	margin-top:15%;
+	border-radius:10px;
+	padding:1em;}
+
+hr{
+	width:90%;
+	height:7px;
+	background:cyan;}
+
+a{text-decoration:none;}
+
+.container input{
+	padding:1em;
+	width:85%;}
+
+.container input[type="checkbox"]{width:auto;}
+
+.signup{padding:0.5em;
+		background-color:cyan;
+		border-radius:7px;
+		-webkit-transition:all 0.35s ease-in-out;
+		-moz-transition:all 0.35s ease-in-out;
+		-o-transition:all 0.35s ease-in-out;}
+
+.acc{margin-top:-7px;text-decoration:underline;}
+
+
+.fb:hover{transform: scale(1.1);}
+.signup:hover{transform: scale(1.1);}
+.container input:hover{border-color:cyan;border:2px solid cyan;}
+
+
+
+
